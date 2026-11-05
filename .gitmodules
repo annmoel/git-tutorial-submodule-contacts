@@ -1,0 +1,3 @@
+[submodule "addresses"]
+	path = addresses
+	url = https://github.com/annmoel/git-tutorial-submodule-addresses
